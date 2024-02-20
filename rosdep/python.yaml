@@ -359,6 +359,9 @@ pika:
     pip:
       packages: [pika]
   ubuntu: [python-pika]
+plotly:
+  debian: [python3-plotly]
+  ubuntu: [python3-plotly]
 pydocstyle:
   alpine: [py3-pydocstyle]
   arch: [python-pydocstyle]
